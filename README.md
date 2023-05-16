@@ -107,8 +107,10 @@ REG NO:212222100029
 
 ## OUTPUT:
 ## SERVER OUTPUT
+![servercalci png](https://github.com/Nandhakumar1313/standard-calculator/assets/120230694/b096394d-eb44-4502-9224-87451416d2fa)
 
 ## CLIENT OUTPUT
+![calci png](https://github.com/Nandhakumar1313/standard-calculator/assets/120230694/081598ae-59a3-4e2b-a4a7-9a062838d1a5)
 
 ## Result:
 The program for implementing simple calculator using HTML, CSS and JavaScript is executed successfully.
